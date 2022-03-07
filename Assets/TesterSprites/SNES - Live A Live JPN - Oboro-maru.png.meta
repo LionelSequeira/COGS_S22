@@ -1,0 +1,4068 @@
+fileFormatVersion: 2
+guid: 16631db8b8728a242ac07604f08556fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8155638809860126895
+    second: SNES - Live A Live JPN - Oboro-maru_0
+  - first:
+      213: -467849400142098056
+    second: SNES - Live A Live JPN - Oboro-maru_1
+  - first:
+      213: -8385270220425961750
+    second: SNES - Live A Live JPN - Oboro-maru_2
+  - first:
+      213: -5119054256221465465
+    second: SNES - Live A Live JPN - Oboro-maru_3
+  - first:
+      213: 8551689966449602568
+    second: SNES - Live A Live JPN - Oboro-maru_4
+  - first:
+      213: -7459189334641045578
+    second: SNES - Live A Live JPN - Oboro-maru_5
+  - first:
+      213: 4285097997283353359
+    second: SNES - Live A Live JPN - Oboro-maru_6
+  - first:
+      213: 1244917687778803863
+    second: SNES - Live A Live JPN - Oboro-maru_7
+  - first:
+      213: -2147699082791470387
+    second: SNES - Live A Live JPN - Oboro-maru_8
+  - first:
+      213: 3633906697157867965
+    second: SNES - Live A Live JPN - Oboro-maru_9
+  - first:
+      213: -3119656285396065592
+    second: SNES - Live A Live JPN - Oboro-maru_10
+  - first:
+      213: 1621548417642082063
+    second: SNES - Live A Live JPN - Oboro-maru_11
+  - first:
+      213: -3574149752432224426
+    second: SNES - Live A Live JPN - Oboro-maru_12
+  - first:
+      213: -7047268640964974387
+    second: SNES - Live A Live JPN - Oboro-maru_13
+  - first:
+      213: -4438141595315038612
+    second: SNES - Live A Live JPN - Oboro-maru_14
+  - first:
+      213: -4886587820528369675
+    second: SNES - Live A Live JPN - Oboro-maru_15
+  - first:
+      213: -7322007764598647651
+    second: SNES - Live A Live JPN - Oboro-maru_16
+  - first:
+      213: 7405948535229480105
+    second: SNES - Live A Live JPN - Oboro-maru_17
+  - first:
+      213: -5623907821851357972
+    second: SNES - Live A Live JPN - Oboro-maru_18
+  - first:
+      213: 1513559244503049381
+    second: SNES - Live A Live JPN - Oboro-maru_19
+  - first:
+      213: 2322255216468767339
+    second: SNES - Live A Live JPN - Oboro-maru_20
+  - first:
+      213: 3952645254653200919
+    second: SNES - Live A Live JPN - Oboro-maru_21
+  - first:
+      213: 6634624955021293854
+    second: SNES - Live A Live JPN - Oboro-maru_22
+  - first:
+      213: -825636314919796830
+    second: SNES - Live A Live JPN - Oboro-maru_23
+  - first:
+      213: 3924703344419635545
+    second: SNES - Live A Live JPN - Oboro-maru_24
+  - first:
+      213: -9134511808736097342
+    second: SNES - Live A Live JPN - Oboro-maru_25
+  - first:
+      213: -8876875225885887933
+    second: SNES - Live A Live JPN - Oboro-maru_26
+  - first:
+      213: -7457208444055847838
+    second: SNES - Live A Live JPN - Oboro-maru_27
+  - first:
+      213: -1883269618637868966
+    second: SNES - Live A Live JPN - Oboro-maru_28
+  - first:
+      213: 3351118636780940968
+    second: SNES - Live A Live JPN - Oboro-maru_29
+  - first:
+      213: 4444291385185180825
+    second: SNES - Live A Live JPN - Oboro-maru_30
+  - first:
+      213: 2443738619475553879
+    second: SNES - Live A Live JPN - Oboro-maru_31
+  - first:
+      213: -7239606579310918401
+    second: SNES - Live A Live JPN - Oboro-maru_32
+  - first:
+      213: -2217431920872107150
+    second: SNES - Live A Live JPN - Oboro-maru_33
+  - first:
+      213: -9180710831819518292
+    second: SNES - Live A Live JPN - Oboro-maru_34
+  - first:
+      213: -2722505692121360619
+    second: SNES - Live A Live JPN - Oboro-maru_35
+  - first:
+      213: -6195126548049177548
+    second: SNES - Live A Live JPN - Oboro-maru_36
+  - first:
+      213: -7633571464941235547
+    second: SNES - Live A Live JPN - Oboro-maru_37
+  - first:
+      213: -6181324968241582707
+    second: SNES - Live A Live JPN - Oboro-maru_38
+  - first:
+      213: 4209665080764895071
+    second: SNES - Live A Live JPN - Oboro-maru_39
+  - first:
+      213: -4403356328540032778
+    second: SNES - Live A Live JPN - Oboro-maru_40
+  - first:
+      213: -9205925222539399850
+    second: SNES - Live A Live JPN - Oboro-maru_41
+  - first:
+      213: 7580387564864085429
+    second: SNES - Live A Live JPN - Oboro-maru_42
+  - first:
+      213: -3234666953768913481
+    second: SNES - Live A Live JPN - Oboro-maru_43
+  - first:
+      213: -5506233046329414305
+    second: SNES - Live A Live JPN - Oboro-maru_44
+  - first:
+      213: 1677497888225567002
+    second: SNES - Live A Live JPN - Oboro-maru_45
+  - first:
+      213: 3201674188010481777
+    second: SNES - Live A Live JPN - Oboro-maru_46
+  - first:
+      213: -3323289618761613723
+    second: SNES - Live A Live JPN - Oboro-maru_47
+  - first:
+      213: -4463497120697311067
+    second: SNES - Live A Live JPN - Oboro-maru_48
+  - first:
+      213: 6056929789501642389
+    second: SNES - Live A Live JPN - Oboro-maru_49
+  - first:
+      213: -325524524095766705
+    second: SNES - Live A Live JPN - Oboro-maru_50
+  - first:
+      213: 8168729065536164350
+    second: SNES - Live A Live JPN - Oboro-maru_51
+  - first:
+      213: 8349054272417241351
+    second: SNES - Live A Live JPN - Oboro-maru_52
+  - first:
+      213: -2102481267412679492
+    second: SNES - Live A Live JPN - Oboro-maru_53
+  - first:
+      213: -8158013937477113329
+    second: SNES - Live A Live JPN - Oboro-maru_54
+  - first:
+      213: 5899450979629783717
+    second: SNES - Live A Live JPN - Oboro-maru_55
+  - first:
+      213: 2173902103010596715
+    second: SNES - Live A Live JPN - Oboro-maru_56
+  - first:
+      213: 5463724481975390674
+    second: SNES - Live A Live JPN - Oboro-maru_57
+  - first:
+      213: 6719708187243711116
+    second: SNES - Live A Live JPN - Oboro-maru_58
+  - first:
+      213: -3106018522518226840
+    second: SNES - Live A Live JPN - Oboro-maru_59
+  - first:
+      213: 8515129096057802857
+    second: SNES - Live A Live JPN - Oboro-maru_60
+  - first:
+      213: -640610370309248285
+    second: SNES - Live A Live JPN - Oboro-maru_61
+  - first:
+      213: -8327570688396177164
+    second: SNES - Live A Live JPN - Oboro-maru_62
+  - first:
+      213: 8148833829123945134
+    second: SNES - Live A Live JPN - Oboro-maru_63
+  - first:
+      213: 6975441648287837148
+    second: SNES - Live A Live JPN - Oboro-maru_64
+  - first:
+      213: 764924603982701768
+    second: SNES - Live A Live JPN - Oboro-maru_65
+  - first:
+      213: 2376565355502192031
+    second: SNES - Live A Live JPN - Oboro-maru_66
+  - first:
+      213: 1294651737301240421
+    second: SNES - Live A Live JPN - Oboro-maru_67
+  - first:
+      213: -467618808247199023
+    second: SNES - Live A Live JPN - Oboro-maru_68
+  - first:
+      213: -4664917601216927136
+    second: SNES - Live A Live JPN - Oboro-maru_69
+  - first:
+      213: -642026707308311889
+    second: SNES - Live A Live JPN - Oboro-maru_70
+  - first:
+      213: -2241570523878046919
+    second: SNES - Live A Live JPN - Oboro-maru_71
+  - first:
+      213: 761312657150467141
+    second: SNES - Live A Live JPN - Oboro-maru_72
+  - first:
+      213: -7274855174554977025
+    second: SNES - Live A Live JPN - Oboro-maru_73
+  - first:
+      213: 5922258098148105007
+    second: SNES - Live A Live JPN - Oboro-maru_74
+  - first:
+      213: -9041556913280691981
+    second: SNES - Live A Live JPN - Oboro-maru_75
+  - first:
+      213: 937595314545200179
+    second: SNES - Live A Live JPN - Oboro-maru_76
+  - first:
+      213: -8932858780806064719
+    second: SNES - Live A Live JPN - Oboro-maru_77
+  - first:
+      213: 4446359153832355896
+    second: SNES - Live A Live JPN - Oboro-maru_78
+  - first:
+      213: -3435704116397577078
+    second: SNES - Live A Live JPN - Oboro-maru_79
+  - first:
+      213: -3297540489027643883
+    second: SNES - Live A Live JPN - Oboro-maru_80
+  - first:
+      213: -8149831467346216635
+    second: SNES - Live A Live JPN - Oboro-maru_81
+  - first:
+      213: 1983095138284370940
+    second: SNES - Live A Live JPN - Oboro-maru_82
+  - first:
+      213: 6182180450679763105
+    second: SNES - Live A Live JPN - Oboro-maru_83
+  - first:
+      213: -6336836943801298120
+    second: SNES - Live A Live JPN - Oboro-maru_84
+  - first:
+      213: -7746322295922613021
+    second: SNES - Live A Live JPN - Oboro-maru_85
+  - first:
+      213: 8815905948101462276
+    second: SNES - Live A Live JPN - Oboro-maru_86
+  - first:
+      213: -5760937676916253557
+    second: SNES - Live A Live JPN - Oboro-maru_87
+  - first:
+      213: -5900589862812910504
+    second: SNES - Live A Live JPN - Oboro-maru_88
+  - first:
+      213: -5476276494404938584
+    second: SNES - Live A Live JPN - Oboro-maru_89
+  - first:
+      213: 8587842779186303733
+    second: SNES - Live A Live JPN - Oboro-maru_90
+  - first:
+      213: -4871620546369249910
+    second: SNES - Live A Live JPN - Oboro-maru_91
+  - first:
+      213: 7190713721609914202
+    second: SNES - Live A Live JPN - Oboro-maru_92
+  - first:
+      213: -6260150462848740425
+    second: SNES - Live A Live JPN - Oboro-maru_93
+  - first:
+      213: -3871362779712268139
+    second: SNES - Live A Live JPN - Oboro-maru_94
+  - first:
+      213: 7467670663047689198
+    second: SNES - Live A Live JPN - Oboro-maru_95
+  - first:
+      213: -1799063311604410620
+    second: SNES - Live A Live JPN - Oboro-maru_96
+  - first:
+      213: -4234324004576666710
+    second: SNES - Live A Live JPN - Oboro-maru_97
+  - first:
+      213: 3479591592517868880
+    second: SNES - Live A Live JPN - Oboro-maru_98
+  - first:
+      213: 2118491973715849466
+    second: SNES - Live A Live JPN - Oboro-maru_99
+  - first:
+      213: 7832878126833405562
+    second: SNES - Live A Live JPN - Oboro-maru_100
+  - first:
+      213: 8164993179474478964
+    second: SNES - Live A Live JPN - Oboro-maru_101
+  - first:
+      213: 5507012526273225577
+    second: SNES - Live A Live JPN - Oboro-maru_102
+  - first:
+      213: 483459380656447265
+    second: SNES - Live A Live JPN - Oboro-maru_103
+  - first:
+      213: -7341698436117987724
+    second: SNES - Live A Live JPN - Oboro-maru_104
+  - first:
+      213: 5098585369256745888
+    second: SNES - Live A Live JPN - Oboro-maru_105
+  - first:
+      213: -5055686960715186071
+    second: SNES - Live A Live JPN - Oboro-maru_106
+  - first:
+      213: -481989118763120235
+    second: SNES - Live A Live JPN - Oboro-maru_107
+  - first:
+      213: 5241423515841649108
+    second: SNES - Live A Live JPN - Oboro-maru_108
+  - first:
+      213: 1983049326588742705
+    second: SNES - Live A Live JPN - Oboro-maru_109
+  - first:
+      213: -1933085070204717180
+    second: SNES - Live A Live JPN - Oboro-maru_110
+  - first:
+      213: -2239872235972828620
+    second: SNES - Live A Live JPN - Oboro-maru_111
+  - first:
+      213: 4700827571280597432
+    second: SNES - Live A Live JPN - Oboro-maru_112
+  - first:
+      213: -5994240633083101474
+    second: SNES - Live A Live JPN - Oboro-maru_113
+  - first:
+      213: -3726721508668772438
+    second: SNES - Live A Live JPN - Oboro-maru_114
+  - first:
+      213: 4698245356737594881
+    second: SNES - Live A Live JPN - Oboro-maru_115
+  - first:
+      213: -6377560010100139597
+    second: SNES - Live A Live JPN - Oboro-maru_116
+  - first:
+      213: 8880995562314639705
+    second: SNES - Live A Live JPN - Oboro-maru_117
+  - first:
+      213: -3959058955953482863
+    second: SNES - Live A Live JPN - Oboro-maru_118
+  - first:
+      213: 3918773747724798595
+    second: SNES - Live A Live JPN - Oboro-maru_119
+  - first:
+      213: -6283047316676330483
+    second: SNES - Live A Live JPN - Oboro-maru_120
+  - first:
+      213: 2626334634205417784
+    second: SNES - Live A Live JPN - Oboro-maru_121
+  - first:
+      213: -5638586502222856608
+    second: SNES - Live A Live JPN - Oboro-maru_122
+  - first:
+      213: 6643064858508556821
+    second: SNES - Live A Live JPN - Oboro-maru_123
+  - first:
+      213: 5260889045721337940
+    second: SNES - Live A Live JPN - Oboro-maru_124
+  - first:
+      213: 4904370963180566844
+    second: SNES - Live A Live JPN - Oboro-maru_125
+  - first:
+      213: -2370240695312841152
+    second: SNES - Live A Live JPN - Oboro-maru_126
+  - first:
+      213: 4519233306594074015
+    second: SNES - Live A Live JPN - Oboro-maru_127
+  - first:
+      213: 1181215123752327540
+    second: SNES - Live A Live JPN - Oboro-maru_128
+  - first:
+      213: -7533671681098048279
+    second: SNES - Live A Live JPN - Oboro-maru_129
+  - first:
+      213: 1114819192026133833
+    second: SNES - Live A Live JPN - Oboro-maru_130
+  - first:
+      213: 4393992179372895352
+    second: SNES - Live A Live JPN - Oboro-maru_131
+  - first:
+      213: -1136215854754258736
+    second: SNES - Live A Live JPN - Oboro-maru_132
+  - first:
+      213: 2389779901718881903
+    second: SNES - Live A Live JPN - Oboro-maru_133
+  - first:
+      213: 1634702146953362862
+    second: SNES - Live A Live JPN - Oboro-maru_134
+  - first:
+      213: -906632874885132762
+    second: SNES - Live A Live JPN - Oboro-maru_135
+  - first:
+      213: -5627621864369327951
+    second: SNES - Live A Live JPN - Oboro-maru_136
+  - first:
+      213: 7208440516358091084
+    second: SNES - Live A Live JPN - Oboro-maru_137
+  - first:
+      213: 8571370975948644795
+    second: SNES - Live A Live JPN - Oboro-maru_138
+  - first:
+      213: 8930556224508069183
+    second: SNES - Live A Live JPN - Oboro-maru_139
+  - first:
+      213: 7773143956059221539
+    second: SNES - Live A Live JPN - Oboro-maru_140
+  - first:
+      213: -2262133815439563491
+    second: SNES - Live A Live JPN - Oboro-maru_141
+  - first:
+      213: -381272655255024369
+    second: SNES - Live A Live JPN - Oboro-maru_142
+  - first:
+      213: -7402980226462446575
+    second: SNES - Live A Live JPN - Oboro-maru_143
+  - first:
+      213: 7853801430700461922
+    second: SNES - Live A Live JPN - Oboro-maru_144
+  - first:
+      213: -2390738386837561962
+    second: SNES - Live A Live JPN - Oboro-maru_145
+  - first:
+      213: 8829563666499029244
+    second: SNES - Live A Live JPN - Oboro-maru_146
+  - first:
+      213: -6941426793188090750
+    second: SNES - Live A Live JPN - Oboro-maru_147
+  - first:
+      213: -513568519867096412
+    second: SNES - Live A Live JPN - Oboro-maru_148
+  - first:
+      213: -6196442649846582528
+    second: SNES - Live A Live JPN - Oboro-maru_149
+  - first:
+      213: -3003678705392230779
+    second: SNES - Live A Live JPN - Oboro-maru_150
+  - first:
+      213: -5063032342938345852
+    second: SNES - Live A Live JPN - Oboro-maru_151
+  - first:
+      213: -1838061990202135981
+    second: SNES - Live A Live JPN - Oboro-maru_152
+  - first:
+      213: 1338696684454279913
+    second: SNES - Live A Live JPN - Oboro-maru_153
+  - first:
+      213: 3076733278862732282
+    second: SNES - Live A Live JPN - Oboro-maru_154
+  - first:
+      213: -192191748221743960
+    second: SNES - Live A Live JPN - Oboro-maru_155
+  - first:
+      213: 925489891476861098
+    second: SNES - Live A Live JPN - Oboro-maru_156
+  - first:
+      213: 334987444401867242
+    second: SNES - Live A Live JPN - Oboro-maru_157
+  - first:
+      213: 158761105879768941
+    second: SNES - Live A Live JPN - Oboro-maru_158
+  - first:
+      213: 789058325411920425
+    second: SNES - Live A Live JPN - Oboro-maru_159
+  - first:
+      213: -8693917621174768788
+    second: SNES - Live A Live JPN - Oboro-maru_160
+  - first:
+      213: -1211861195990706495
+    second: SNES - Live A Live JPN - Oboro-maru_161
+  - first:
+      213: -890657788517607370
+    second: SNES - Live A Live JPN - Oboro-maru_162
+  - first:
+      213: -2312513633437702224
+    second: SNES - Live A Live JPN - Oboro-maru_163
+  - first:
+      213: 5583604838310615931
+    second: SNES - Live A Live JPN - Oboro-maru_164
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c5ed76b951de80800000000000000
+      internalID: -8155638809860126895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8719628037dd189f0800000000000000
+      internalID: -467849400142098056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee59dd592981ab80800000000000000
+      internalID: -8385270220425961750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 444
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d7ff964775f8b0800000000000000
+      internalID: -5119054256221465465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800308737b4bda670800000000000000
+      internalID: 8551689966449602568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf865412d2ab7890800000000000000
+      internalID: -7459189334641045578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 444
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03efc3dce9b77b30800000000000000
+      internalID: 4285097997283353359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 445
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79008aa8a06d64110800000000000000
+      internalID: 1244917687778803863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 399
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca38cd2017d132e0800000000000000
+      internalID: -2147699082791470387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 438
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f10743ea3e6230800000000000000
+      internalID: 3633906697157867965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 438
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c227a71321c4b4d0800000000000000
+      internalID: -3119656285396065592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 438
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f27abc1b5e08610800000000000000
+      internalID: 1621548417642082063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 438
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571a30acb1166ec0800000000000000
+      internalID: -3574149752432224426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc868825282133e90800000000000000
+      internalID: -7047268640964974387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 426
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669c5cbbbd8862c0800000000000000
+      internalID: -4438141595315038612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 426
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff7a9744a5f2cb0800000000000000
+      internalID: -4886587820528369675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 426
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9412745bb0036a90800000000000000
+      internalID: -7322007764598647651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 426
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac7d2354f637c660800000000000000
+      internalID: 7405948535229480105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 426
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec420df1add3f1b0800000000000000
+      internalID: -5623907821851357972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 426
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ec1b1d1e310510800000000000000
+      internalID: 1513559244503049381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 405
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b623b67c0de4a3020800000000000000
+      internalID: 2322255216468767339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 405
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71accb6caed9ad630800000000000000
+      internalID: 3952645254653200919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 405
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197cfdae3ce21c50800000000000000
+      internalID: 6634624955021293854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2affa8f5520ca84f0800000000000000
+      internalID: -825636314919796830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 405
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9518be4d5e8577630800000000000000
+      internalID: 3924703344419635545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 405
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8cab18e1bb3180800000000000000
+      internalID: -9134511808736097342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_26
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 405
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3423b9583010fc480800000000000000
+      internalID: -8876875225885887933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 405
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cf10c1e6ca28890800000000000000
+      internalID: -7457208444055847838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 405
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fdc482484dd5e0800000000000000
+      internalID: -1883269618637868966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 405
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee48925a0918e20800000000000000
+      internalID: 3351118636780940968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 405
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9a4cc77b4dad30800000000000000
+      internalID: 4444291385185180825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 404
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e6eb1b357e9e120800000000000000
+      internalID: 2443738619475553879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 404
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff487965c20c78b90800000000000000
+      internalID: -7239606579310918401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735eca9a691a31e0800000000000000
+      internalID: -2217431920872107150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae01d3d320979080800000000000000
+      internalID: -9180710831819518292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517902a5f77b73ad0800000000000000
+      internalID: -2722505692121360619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_36
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 387
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434dfec4a3d760aa0800000000000000
+      internalID: -6195126548049177548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_37
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 387
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29e90723b101690800000000000000
+      internalID: -7633571464941235547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 387
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d25b201b5873aa0800000000000000
+      internalID: -6181324968241582707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_39
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 387
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8b52561cbb6a30800000000000000
+      internalID: 4209665080764895071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 386
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f037e9cfb224e2c0800000000000000
+      internalID: -4403356328540032778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 386
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65deab109cbfd3080800000000000000
+      internalID: -9205925222539399850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 351
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd138fd352f23960800000000000000
+      internalID: 7580387564864085429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 351
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5b8e52b872c13d0800000000000000
+      internalID: -3234666953768913481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da407b73ee593b0800000000000000
+      internalID: -5506233046329414305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 295
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11272b017ba74710800000000000000
+      internalID: 1677497888225567002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 295
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e6e6f5b1ae6c20800000000000000
+      internalID: 3201674188010481777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 295
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e78f303bd41e1d0800000000000000
+      internalID: -3323289618761613723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 295
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0abd074097e02c0800000000000000
+      internalID: -4463497120697311067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 295
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5961ab47d898e0450800000000000000
+      internalID: 6056929789501642389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_50
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 295
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ff7978b218b7bf0800000000000000
+      internalID: -325524524095766705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_51
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 295
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef111b92ec72d5170800000000000000
+      internalID: 8168729065536164350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 297
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70913e520accdd370800000000000000
+      internalID: 8349054272417241351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 295
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb444fc3d6c72d2e0800000000000000
+      internalID: -2102481267412679492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 294
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aadfffb89e8ce80800000000000000
+      internalID: -8158013937477113329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 291
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad9aac86f0fd150800000000000000
+      internalID: 5899450979629783717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_56
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 291
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67db62e1704b2e10800000000000000
+      internalID: 2173902103010596715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 292
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19fb2e77c03db40800000000000000
+      internalID: 5463724481975390674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_58
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 292
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a02f66ef2314d50800000000000000
+      internalID: 6719708187243711116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 292
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86874833c9435e4d0800000000000000
+      internalID: -3106018522518226840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_60
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 292
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9605e1b3cc0db2670800000000000000
+      internalID: 8515129096057802857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_61
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 273
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea294623481c17f0800000000000000
+      internalID: -640610370309248285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 257
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d03c84968e6c80800000000000000
+      internalID: -8327570688396177164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 257
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27e967139761170800000000000000
+      internalID: 8148833829123945134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb69adb83fbdc060800000000000000
+      internalID: 6975441648287837148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 258
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c46854efde8d9a00800000000000000
+      internalID: 764924603982701768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 258
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95453869914bf020800000000000000
+      internalID: 2376565355502192031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 258
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acead45e687f110800000000000000
+      internalID: 1294651737301240421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 258
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da5224eb2fa289f0800000000000000
+      internalID: -467618808247199023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_69
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 258
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6ff05822e24fb0800000000000000
+      internalID: -4664917601216927136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_70
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 267
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa039e7c101717f0800000000000000
+      internalID: -642026707308311889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_71
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 264
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93343412c7754e0e0800000000000000
+      internalID: -2241570523878046919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_72
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c567cf3d9b09a00800000000000000
+      internalID: 761312657150467141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcfc3833c58a0b90800000000000000
+      internalID: -7274855174554977025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 182
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5c40ec56103250800000000000000
+      internalID: 5922258098148105007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_75
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 256
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f05d6f34efe58280800000000000000
+      internalID: -9041556913280691981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_76
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 256
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c898298f1030d00800000000000000
+      internalID: 937595314545200179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_77
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b55355644c180480800000000000000
+      internalID: -8932858780806064719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 255
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ebf3b714a4bd30800000000000000
+      internalID: 4446359153832355896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 226
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c66cc2f4de150d0800000000000000
+      internalID: -3435704116397577078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5161a077568cc32d0800000000000000
+      internalID: -3297540489027643883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5493789c57bf5ee80800000000000000
+      internalID: -8149831467346216635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_82
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 226
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb7e39758e558b10800000000000000
+      internalID: 1983095138284370940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 230
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b1248d548bc550800000000000000
+      internalID: 6182180450679763105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 230
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d625af580f08a0800000000000000
+      internalID: -6336836943801298120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_85
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 229
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e428d3e9e88f7490800000000000000
+      internalID: -7746322295922613021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_86
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 228
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40947d940c3685a70800000000000000
+      internalID: 8815905948101462276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_87
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 182
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c1e32a4b90d00b0800000000000000
+      internalID: -5760937676916253557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cf3cd48c4ec1ea0800000000000000
+      internalID: -5900589862812910504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41c2bfa8b5004b0800000000000000
+      internalID: -5476276494404938584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f29d40e1852e2770800000000000000
+      internalID: 8587842779186303733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 194
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9a2d8ce6846cb0800000000000000
+      internalID: -4871620546369249910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 199
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570612280c8ac360800000000000000
+      internalID: 7190713721609914202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 199
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3576d525a7f19a0800000000000000
+      internalID: -6260150462848740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_94
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 130
+        width: 137
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598d49e2018264ac0800000000000000
+      internalID: -3871362779712268139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3309217ee72a760800000000000000
+      internalID: 7467670663047689198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_96
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407916f23717807e0800000000000000
+      internalID: -1799063311604410620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 184
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab5c4390c8ac35c0800000000000000
+      internalID: -4234324004576666710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 184
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d96732e1ef94030800000000000000
+      internalID: 3479591592517868880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 183
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af079d0d935666d10800000000000000
+      internalID: 2118491973715849466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_100
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 182
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e05dee729f3bc60800000000000000
+      internalID: 7832878126833405562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 193
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47740186902ef4170800000000000000
+      internalID: 8164993179474478964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_102
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 182
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963642a17b6dc6c40800000000000000
+      internalID: 5507012526273225577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_103
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9b57ceb795b600800000000000000
+      internalID: 483459380656447265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_104
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e752b9b2c0d1a90800000000000000
+      internalID: -7341698436117987724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_105
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 193
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5d8f3160d1c640800000000000000
+      internalID: 5098585369256745888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_106
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 187
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9604ff2de7796d9b0800000000000000
+      internalID: -5055686960715186071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 137
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599458e3371af49f0800000000000000
+      internalID: -481989118763120235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_108
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9de1bdae64db840800000000000000
+      internalID: 5241423515841649108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 137
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c466b1bd4358b10800000000000000
+      internalID: 1983049326588742705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 137
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48736ddde5d4c25e0800000000000000
+      internalID: -1933085070204717180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432649891106ae0e0800000000000000
+      internalID: -2239872235972828620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 137
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1da8025c1bc3140800000000000000
+      internalID: 4700827571280597432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_113
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 137
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede7ede27ed20dca0800000000000000
+      internalID: -5994240633083101474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_114
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 131
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf6dfa6886084cc0800000000000000
+      internalID: -3726721508668772438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_115
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 132
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10609f37245833140800000000000000
+      internalID: 4698245356737594881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_116
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 132
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99e38e5fa5e77a0800000000000000
+      internalID: -6377560010100139597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_117
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 130
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a59f0962af3b70800000000000000
+      internalID: 8880995562314639705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_118
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 130
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19350950bd89e09c0800000000000000
+      internalID: -3959058955953482863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_119
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 131
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a434406f7426630800000000000000
+      internalID: 3918773747724798595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 43
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c398621c12ec8a0800000000000000
+      internalID: -6283047316676330483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_121
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319e155f6d927420800000000000000
+      internalID: 2626334634205417784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_122
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 43
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb1b36377bfb1b0800000000000000
+      internalID: -5638586502222856608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_123
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 43
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7847da48e03c50800000000000000
+      internalID: 6643064858508556821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_124
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d6f4b6be620940800000000000000
+      internalID: 5260889045721337940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_125
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 43
+        width: 16
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c393e131863df0440800000000000000
+      internalID: 4904370963180566844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 43
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04604bb45a63b1fd0800000000000000
+      internalID: -2370240695312841152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_127
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 42
+        width: 16
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d57a89fba87be30800000000000000
+      internalID: 4519233306594074015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_128
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 54
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479939e85e4846010800000000000000
+      internalID: 1181215123752327540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 55
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1bb96585037790800000000000000
+      internalID: -7533671681098048279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_130
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 47
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94571890622a87f00800000000000000
+      internalID: 1114819192026133833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_131
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 47
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cad555b989afc30800000000000000
+      internalID: 4393992179372895352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_132
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0a43533b95b30f0800000000000000
+      internalID: -1136215854754258736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_133
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 47
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666255b8243a2120800000000000000
+      internalID: 2389779901718881903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead39be01f0afa610800000000000000
+      internalID: 1634702146953362862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_135
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec7ce243efa63f0800000000000000
+      internalID: -906632874885132762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_136
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07b041bbba6e1b0800000000000000
+      internalID: -5627621864369327951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_137
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41be0a2576890460800000000000000
+      internalID: 7208440516358091084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_138
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb123835d70a3f670800000000000000
+      internalID: 8571370975948644795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_139
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350570f195bfeb70800000000000000
+      internalID: 8930556224508069183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_140
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e62e08e31cfdb60800000000000000
+      internalID: 7773143956059221539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d156358b7494b90e0800000000000000
+      internalID: -2262133815439563491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_142
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d44f44a8275baf0800000000000000
+      internalID: -381272655255024369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_143
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c077ae4b4534990800000000000000
+      internalID: -7402980226462446575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_144
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f0b5d3ace4efc60800000000000000
+      internalID: 7853801430700461922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_145
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d18a59a1462ded0800000000000000
+      internalID: -2390738386837561962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ce57af59e88a70800000000000000
+      internalID: 8829563666499029244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_147
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c15addb191baf90800000000000000
+      internalID: -6941426793188090750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_148
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2af75f6207fd8f0800000000000000
+      internalID: -513568519867096412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00370d87d30d10aa0800000000000000
+      internalID: -6196442649846582528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_150
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ed0b1b12ac056d0800000000000000
+      internalID: -3003678705392230779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_151
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e98d0c8ee7cb9b0800000000000000
+      internalID: -5063032342938345852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aaadebb54ed76e0800000000000000
+      internalID: -1838061990202135981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf3e2ba81049210800000000000000
+      internalID: 1338696684454279913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_154
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb6c3bad90c2ba20800000000000000
+      internalID: 3076733278862732282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_155
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac4b7e8f92355df0800000000000000
+      internalID: -192191748221743960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_156
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa071b0272008dc00800000000000000
+      internalID: 925489891476861098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90acb4e4d16a400800000000000000
+      internalID: 334987444401867242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_158
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9c187268043200800000000000000
+      internalID: 158761105879768941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_159
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92afd39cd5c43fa00800000000000000
+      internalID: 789058325411920425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_160
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6e536cfff85780800000000000000
+      internalID: -8693917621174768788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_161
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d4e7b9aa9e2fe0800000000000000
+      internalID: -1211861195990706495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_162
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63819f2d57fb3a3f0800000000000000
+      internalID: -890657788517607370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_163
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a2b44a1d48efd0800000000000000
+      internalID: -2312513633437702224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Live A Live JPN - Oboro-maru_164
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b18a96403fc7d40800000000000000
+      internalID: 5583604838310615931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
