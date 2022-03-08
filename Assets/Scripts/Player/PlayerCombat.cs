@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class PlayerCombat : MonoBehaviour
 {
+    [Header("Melee")]
     public Transform attackPoint;
     public Animator animator;
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
     public int attackDamage = 20;
-
 
     // Update is called once per frame
     void Update()
@@ -24,10 +24,7 @@ public class PlayerCombat : MonoBehaviour
 
     void CheckInputs()
     {
-        if (Input.GetKeyDown(KeyCode.U))
-        {
-            MeleeAttack();
-        }
+        if (Input.GetKeyDown(KeyCode.U)) MeleeAttack();
     }
 
     void MeleeAttack()
