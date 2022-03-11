@@ -38,6 +38,19 @@ public class PlayerCombat : MonoBehaviour
             Debug.Log("Hit Enemy: " + enemy.name);
             enemy.GetComponent<EnemyTest>().TakeDamage(attackDamage);
         }
+
+        FireProjectile();
+    }
+
+    private void FireProjectile()
+    {
+        GameObject obj = ObjectPooler.current.GetPooledObject();
+        if (obj == null) return;
+
+        // replace "this" with a firePosition variable later, just using player transform for now.
+        obj.transform.position = this.transform.position;
+        obj.transform.rotation = this.transform.rotation;
+        obj.SetActive(true);
     }
 
     void OnDrawGizmosSelected()

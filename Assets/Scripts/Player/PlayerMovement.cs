@@ -33,7 +33,7 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        Move();
+        if (canMove) Move();
     }
 
     void CheckInputs()
