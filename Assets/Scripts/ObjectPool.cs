@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ObjectPooler : MonoBehaviour
+public class ObjectPool : MonoBehaviour
 {
-    public static ObjectPooler current;
     public GameObject pooledObject;
     public int pooledAmount;
     public bool willGrow;
@@ -14,11 +13,10 @@ public class ObjectPooler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        current = this;
         pooledObjectsList = new List<GameObject>();
         for (int i = 0; i < pooledAmount; i++)
         {
-            GameObject obj = Instantiate(pooledObject);
+            GameObject obj = Instantiate(pooledObject, this.transform);
             obj.SetActive(false);
             pooledObjectsList.Add(obj);
         }
@@ -36,7 +34,7 @@ public class ObjectPooler : MonoBehaviour
 
         if(willGrow)
         {
-            GameObject obj = Instantiate(pooledObject);
+            GameObject obj = Instantiate(pooledObject, this.transform);
             pooledObjectsList.Add(obj);
             return obj;
         }

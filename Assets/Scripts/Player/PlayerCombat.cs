@@ -10,6 +10,7 @@ public class PlayerCombat : MonoBehaviour
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
     public int attackDamage = 20;
+    [SerializeField] private GameObject projectilePool;
 
     // Update is called once per frame
     void Update()
@@ -35,8 +36,7 @@ public class PlayerCombat : MonoBehaviour
 
         foreach(Collider2D enemy in hitEnemies)
         {
-            Debug.Log("Hit Enemy: " + enemy.name);
-            enemy.GetComponent<EnemyTest>().TakeDamage(attackDamage);
+            enemy.GetComponent<EnemyHealth>().TakeDamage(attackDamage);
         }
 
         FireProjectile();
@@ -44,12 +44,12 @@ public class PlayerCombat : MonoBehaviour
 
     private void FireProjectile()
     {
-        GameObject obj = ObjectPooler.current.GetPooledObject();
+        GameObject obj = projectilePool.GetComponent<ObjectPool>().GetPooledObject();
         if (obj == null) return;
 
         // replace "this" with a firePosition variable later, just using player transform for now.
-        obj.transform.position = this.transform.position;
-        obj.transform.rotation = this.transform.rotation;
+        obj.transform.position = attackPoint.position;
+        obj.transform.rotation = attackPoint.rotation;
         obj.SetActive(true);
     }
 

@@ -71,7 +71,34 @@ public class PlayerCombo : MonoBehaviour
 
     void executeStringQueueToCombos()
     {
+        string temp = "";
 
+        while (comboQueue.Count != 0)
+        {
+            temp = comboQueue.Dequeue();
+            switch (temp)
+            {
+                case "i": //execute combo
+                    break;
+                case "ii": //execute combo
+                    break;
+                case "iii": //execute combo
+                    break;
+                case "o": //execute combo
+                    break;
+                case "oo": //execute combo
+                    break;
+                case "ooo": //execute combo
+                    break;
+                case "p": //execute combo
+                    break;
+                case "pp": //execute combo
+                    break;
+                case "ppp": //execute combo
+                    break;
+                default: break;
+            }
+        }
     }
 
     void testCharQueueLimit()
