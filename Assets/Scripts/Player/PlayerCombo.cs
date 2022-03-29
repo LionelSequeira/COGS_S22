@@ -10,6 +10,12 @@ public class PlayerCombo : MonoBehaviour
     //Instance Variables
     private Queue<char> charQueue = new Queue<char>();
     private Queue<string> comboQueue = new Queue<string>();
+    private PlayerController controller;
+
+    private void Start()
+    {
+        controller = GetComponent<PlayerController>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -45,8 +51,8 @@ public class PlayerCombo : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             convertCharQueueToStringQueue();
-            printCharQueue();
-            printStringQueue();
+            //printCharQueue();
+            //printStringQueue();
             executeStringQueueToCombos();
         }
     }
@@ -78,23 +84,32 @@ public class PlayerCombo : MonoBehaviour
             temp = comboQueue.Dequeue();
             switch (temp)
             {
-                case "i": //execute combo
+                case "I": 
+                    controller.reduceI(5);
                     break;
-                case "ii": //execute combo
+                case "II":
+                    controller.reduceI(20);
                     break;
-                case "iii": //execute combo
+                case "III":
+                    controller.reduceI(50);
                     break;
-                case "o": //execute combo
+                case "O":
+                    controller.reduceO(5);
                     break;
-                case "oo": //execute combo
+                case "OO":
+                    controller.reduceO(20);
                     break;
-                case "ooo": //execute combo
+                case "OOO":
+                    controller.reduceO(50);
                     break;
-                case "p": //execute combo
+                case "P":
+                    controller.reduceP(5);
                     break;
-                case "pp": //execute combo
+                case "PP":
+                    controller.reduceP(20);
                     break;
-                case "ppp": //execute combo
+                case "PPP":
+                    controller.reduceP(50);
                     break;
                 default: break;
             }

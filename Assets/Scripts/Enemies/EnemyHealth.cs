@@ -22,14 +22,12 @@ public class EnemyHealth : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
-        Debug.Log("Enemy Name: " + name + " Damage Taken: " + damage);
+        Debug.Log("Entity Name: " + name + " Damage Taken: " + damage);
         if(currentHealth <= 0) Die();
     }
 
     void Die()
     {
-        Debug.Log("Enemy " + name + "has died.");
-
         GetComponent<Collider2D>().enabled = false;
         GetComponent<SpriteRenderer>().enabled = false;
         this.enabled = false;

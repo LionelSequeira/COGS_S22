@@ -16,7 +16,7 @@ public class EnemyProjectile : MonoBehaviour
         {
             rb.velocity = transform.right * projectileSpeed;
         }
-        Invoke("Disable", 4f);
+        Invoke("Disable", 6f);
     }
 
     void Start()
@@ -39,6 +39,7 @@ public class EnemyProjectile : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
+            collision.gameObject.GetComponent<PlayerController>().TakeDamage(projectileDamage);
             Invoke("Disable", 0f);
         }
     }

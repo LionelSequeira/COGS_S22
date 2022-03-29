@@ -432,13 +432,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectilePool: {fileID: 143279145}
+  player: {fileID: 1845171745}
   spreadX: 0
-  spreadY: 2
-  spreadDegrees: 18
+  spreadY: 0
+  spreadDegrees: 65
   centerRadius: 4.9
-  centerRotation: 0
+  centerRotation: -38
   uniDirectionalPitch: 1
-  pitch: 0
+  pitch: -43
+  playerHoming: 0
   numberOfPoints: 20
   timeBetweenProjectiles: 0.5
 --- !u!1 &1845171745
@@ -457,6 +459,7 @@ GameObject:
   - component: {fileID: 1845171749}
   - component: {fileID: 1845171753}
   - component: {fileID: 1845171752}
+  - component: {fileID: 1845171754}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -642,6 +645,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   comboLimit: 4
+--- !u!114 &1845171754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1845171745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42016f0c2283cf2489bca9b9bd992a33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  maxI: 100
+  maxO: 100
+  maxP: 100
 --- !u!1 &1851690042
 GameObject:
   m_ObjectHideFlags: 0

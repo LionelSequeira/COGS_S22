@@ -16,7 +16,7 @@ public class PlayerProjectile : MonoBehaviour
         {
             rb.velocity = Vector2.right * projectileSpeed;
         }
-        Invoke("Disable", 2f);
+        Invoke("Disable", 6f);
     }
 
     void Start()
@@ -41,10 +41,6 @@ public class PlayerProjectile : MonoBehaviour
         {
             collision.gameObject.GetComponent<EnemyHealth>().TakeDamage(projectileDamage);
             Invoke("Disable", 0f);
-            Debug.Log("Collided with something! layer number: " + collision.gameObject.layer);
-        } else
-        {
-            Debug.Log("not in layer mask! object name: " + collision.gameObject.name);
         }
     }
 }
