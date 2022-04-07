@@ -8,7 +8,8 @@ public class PlayerMovement : MonoBehaviour
     //Inspector Variables
     [Header("Basic Movement")]
     [SerializeField] float moveSpeed;
-    
+    [SerializeField] Animator animator;
+
     //Instance Variables
     private Vector2 moveDirection;
 
@@ -39,10 +40,20 @@ public class PlayerMovement : MonoBehaviour
     {
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
-        
 
-        moveDirection = new Vector2(moveX,moveY).normalized;
+        Vector2 directionVector = new Vector2(moveX, moveY);
+        moveDirection = directionVector.normalized;
 
+        animator.SetFloat("X", moveX);
+        animator.SetFloat("Y", moveY);
+
+        if (directionVector != Vector2.zero)
+        {
+            animator.SetBool("isWalking", true);
+        } else
+        {
+            animator.SetBool("isWalking", false);
+        }
     }
 
     void Move()

@@ -435,7 +435,7 @@ MonoBehaviour:
   player: {fileID: 1845171745}
   spreadX: 0
   spreadY: 0
-  spreadDegrees: 65
+  spreadDegrees: 89
   centerRadius: 4.9
   centerRotation: -38
   uniDirectionalPitch: 1
@@ -507,7 +507,7 @@ SpriteRenderer:
   m_SortingLayerID: 432357899
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5899450979629783717, guid: 16631db8b8728a242ac07604f08556fd, type: 3}
+  m_Sprite: {fileID: 6284184549034008058, guid: b3aad75c7a8a70f4a877a1a9d81cd99e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -567,6 +567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 15
+  animator: {fileID: 1845171751}
 --- !u!61 &1845171750
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -584,7 +585,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.1, y: 3}
+    oldSize: {x: 2.5, y: 3.2}
     newSize: {x: 21, y: 30}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
